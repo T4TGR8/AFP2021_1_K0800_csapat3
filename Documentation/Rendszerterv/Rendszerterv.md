@@ -1,5 +1,9 @@
 ## 1. Rendszer célja
+---
 
+A rendszer célja hogy a vásárló képes legyen alapvető matematikai műveletek elvégzésére,
+ az álltalunk fejlesztett program segítségével.
+ 
 ## 2. Projektterv
 
 ## 3. Üzleti folyamatok modellje
