@@ -15,6 +15,8 @@ A rendszernek a következő funkciókat kell ellátnia:
 *	Számok négyzetgyökének, valamint köbgyökének kiszámítása.
 *	A Fent említett műveletek együttes használata.
 *   Felület,mely másodfokú egyenlet megoldására képes.
+Előfeltételek:
+*	A felhasználón bejelentkezés (felhasználónév és jelszó helyes megadása) nélkül nem használhatja az alkalmazást.
 
 ## 3. Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
 *   K01: Az alkalmazás úgy hozzuk létre,hogy kizárólagosan a megfelelő felhasználónév és jelszó megadádása után hozzáférhető.
