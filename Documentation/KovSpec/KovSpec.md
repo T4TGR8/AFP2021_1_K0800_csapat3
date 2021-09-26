@@ -24,6 +24,9 @@ Csak a vállalat dolgozói használhatják.
 
 ## 7. Igényelt üzleti folyamatok modellje
 
+Hatványozási felület:
+-   Egy külön felület, ahol hatványozni lehet
+
 ## 8. Követelménylista
 
 ## 9. Fogalomtár
