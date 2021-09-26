@@ -29,5 +29,15 @@ Hatványozási felület:
 
 ## 8. Követelménylista
 
+    
+| ID  | Név | Kifejtés |
+| ------------- | ------------- | ------------- |
+| 1  | Összeadás  | Számok összeadása. |
+| 2  | Kivonás  | Számok kivonása. |
+| 3  | Szorzás  | Számok szorzása. |
+| 4  | Osztás  | Számok osztása. |
+| 5  | Gyökvonás | Számok gyökei. |
+| 6  | Hatványozási felület | Külön felület számok hatványozására. |
+
 ## 9. Fogalomtár
 
