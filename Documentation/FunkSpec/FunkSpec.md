@@ -19,5 +19,9 @@ A rendszernek a következő funkciókat kell ellátnia:
 ## 3. Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
 *   K01: Az alkalmazás úgy hozzuk létre,hogy kizárólagosan a megfelelő felhasználónév és jelszó megadádása után hozzáférhető.
 
+## 4. Képernyőtervek
 
+## 5. Forgatókönyvek
+
+## 6. Funkció–követelmény megfeleltetés
 
