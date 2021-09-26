@@ -17,6 +17,9 @@ A rendszer célja hogy a vásárló képes legyen alapvető matematikai művelet
 ## 7. Architekturális terv
 
 ## 8. Adatbázis terv
+---
+
+Az alkalmazásunkhoz nincs szükség adatbázisra, azonban előfordulhat, hogy tárolni kell helyi fájlokat
 
 ## 9. Implementációs terv
 
