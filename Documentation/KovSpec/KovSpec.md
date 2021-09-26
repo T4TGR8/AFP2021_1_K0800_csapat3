@@ -15,7 +15,12 @@ A project célja, hogy optimális számológépet jöjjön létre a dolgozók sz
 Csak a vállalat dolgozói használhatják.
 
 ## 6. Jelenlegi üzleti folyamatok modellje
-
+-   Összeadás
+-   Kivonás
+-   Szorzás
+-   Osztás
+-   Gyökvonás
+-   Hatványozás
 
 ## 7. Igényelt üzleti folyamatok modellje
 
