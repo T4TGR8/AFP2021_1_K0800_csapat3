@@ -2,17 +2,21 @@
 
 A projekt célja,hogy a vállalat dolgozói egy saját,egyedi számológépet használva végezhessék el a munkájukhoz kapcsolódó matematikai számításokat. A számológépnek egyszerűnek, és könnyen használhatónak kell lennie. Az alkalmazás funkciói: Összeadás, kivonás, szorzás, osztás, hatványozás, gyökvonás, a hagyományos számológépen látható DEL illetve AC jelzésű gombok, valamint külön felület,amely másodfokú egyenlet megoldására képes.
 
-## 2. Vágyálom rendszer
+## 2. Jelenlegi helyzet
 
-## 3. Funkcionális követelmények
+Jelenlegi nem saját, egyedi számológépeket használnak a vállalt dolgozói, ezért szeretnénk ezeket lecserélni, és saját, könnyen használhatóakkal helyetessíteni, ami optimális a dolgozók számára.
 
-## 4. Rendszerre vonatkozó törvények, szabányok, ajánlások
+## 3. Vágyálom rendszer
 
-## 5. Jelenlegi üzleti folyamatok modellje
+## 4. Funkcionális követelmények
 
-## 6. Igényelt üzleti folyamatok modellje
+## 5. Rendszerre vonatkozó törvények, szabányok, ajánlások
 
-## 7. Követelménylista
+## 6. Jelenlegi üzleti folyamatok modellje
 
-## 8. Fogalomtár
+## 7. Igényelt üzleti folyamatok modellje
+
+## 8. Követelménylista
+
+## 9. Fogalomtár
 
