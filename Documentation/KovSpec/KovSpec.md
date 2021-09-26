@@ -38,6 +38,12 @@ Hatványozási felület:
 | 4  | Osztás  | Számok osztása. |
 | 5  | Gyökvonás | Számok gyökei. |
 | 6  | Hatványozási felület | Külön felület számok hatványozására. |
+| 7  | Törlés  | Törlés a képernyőről |
+| 1  | Nullázás | Az összes szám törlése a képernyőről |
 
 ## 9. Fogalomtár
+
+-   **Optimális:** A lehető legjobb (állapot, helyzet, sajátság, tevékenység), amely a fennálló körülmények között a legkedvezőbb.
+-   **DEL:** A legutolsó karakter törlése a képernyőről.
+-   **AC:** Kijelző törlése (mindent töröl)
 
