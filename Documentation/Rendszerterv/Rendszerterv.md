@@ -81,5 +81,9 @@ eredményt kapunk, a teszt eset sikeresnek tekinthető, ellenkező esetben a hib
 hibákat javítjuk a szoftverben, és újbóli tesztelésnek vetjük alá a rendszert.
 
 ## 11. Telepítési terv
+### Fizikai telepítési terv: 
+    - Szükség van a megfelelő specifikációs számítógépre, amely képes futtatni java környezetet  
+### Szoftver telepítési terv: 
+    - A java telepítése után telepíthető az alkalmazás
 
 ## 12. Karbantartási terv
