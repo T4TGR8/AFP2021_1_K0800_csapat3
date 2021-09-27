@@ -22,7 +22,7 @@ Előfeltételek:
 *   K01: Az alkalmazás úgy hozzuk létre,hogy kizárólagosan a megfelelő felhasználónév és jelszó megadádása után hozzáférhető.
 
 ## 4. Képernyőtervek
-
+![Képernyőterv](kepernyoterv01.png)
 ## 5. Forgatókönyvek
 
 ## 6. Funkció–követelmény megfeleltetés
