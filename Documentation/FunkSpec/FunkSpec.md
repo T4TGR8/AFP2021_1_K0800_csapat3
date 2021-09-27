@@ -26,6 +26,10 @@ Előfeltételek:
 
 ## 5. Forgatókönyvek
 Sikeres bejelentkezés után megjeleni a képernyőterven látott felület, az alatta futó programkód pedig lehetővé teszi a számológép funkcióinak hibamentes ellátását.
+A másodfokú egyenletek megoldását lehetővé tevő funkciót a jobb alsó sarokban található gombra kattintva érjük el.
 
 ## 6. Funkció–követelmény megfeleltetés
 
+ID|Verzió|Követelmény|Funkció
+--|------|---|--------
+K01|V1.0|Felhasználók adminisztrációja|A felhasználónév és jelszó regisztrációja az adminiszrátor feladata. A Felhasználó a regisztáció után tudja használni az alkalmazást.
