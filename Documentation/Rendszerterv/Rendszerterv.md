@@ -12,7 +12,7 @@ A rendszer célja hogy a vásárló képes legyen alapvető matematikai művelet
 
 ## 4. Követelmények
 
-### Funkcionális
+* Funkcionális
     - Egyszerűbb matematikai műveletek elvégzése
     - A folyamat alatt az eredmények tárolása
     - Megakadályozni, hogy a felhasználó érvénytelen adatot adjon meg
@@ -22,7 +22,7 @@ A rendszer célja hogy a vásárló képes legyen alapvető matematikai művelet
 
 ## 5. Funkcionális terv
 ---
-### Rendszerszereplő:
+* Rendszerszereplő:
     - Felhasználó
 
 ### Rendszerhasználati esetek:
@@ -44,7 +44,7 @@ A rendszer célja hogy a vásárló képes legyen alapvető matematikai művelet
 
 ## 6. Fizikai környezet
 ---
-### Fejlesztői környezet:
+* Fejlesztői környezet:
     - JavaFX
     - Git
     - Notepad++
@@ -82,9 +82,9 @@ hibákat javítjuk a szoftverben, és újbóli tesztelésnek vetjük alá a rend
 
 ## 11. Telepítési terv
 ---
-### Fizikai telepítési terv: 
+* Fizikai telepítési terv: 
     - Szükség van a megfelelő specifikációs számítógépre, amely képes futtatni java környezetet  
-### Szoftver telepítési terv: 
+* Szoftver telepítési terv: 
     - A java telepítése után telepíthető az alkalmazás
 
 ## 12. Karbantartási terv
