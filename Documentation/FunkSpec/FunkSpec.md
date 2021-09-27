@@ -23,7 +23,9 @@ Előfeltételek:
 
 ## 4. Képernyőtervek
 ![Képernyőterv](kepernyoterv01.png)
+
 ## 5. Forgatókönyvek
+Sikeres bejelentkezés után megjeleni a képernyőterven látott felület, az alatta futó programkód pedig lehetővé teszi a számológép funkcióinak hibamentes ellátását.
 
 ## 6. Funkció–követelmény megfeleltetés
 
