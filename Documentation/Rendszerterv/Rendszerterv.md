@@ -7,6 +7,8 @@ A rendszer célja hogy a vásárló képes legyen alapvető matematikai művelet
 ## 2. Projektterv
 
 ## 3. Üzleti folyamatok modellje
+---
+![Business](uzleti.png)
 
 ## 4. Követelmények
 
