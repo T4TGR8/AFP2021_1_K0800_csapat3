@@ -12,6 +12,14 @@ A rendszer célja hogy a vásárló képes legyen alapvető matematikai művelet
 
 ## 4. Követelmények
 
+### Funkcionális
+    - Egyszerűbb matematikai műveletek elvégzése
+    - A folyamat alatt az eredmények tárolása
+    - Megakadályozni, hogy a felhasználó érvénytelen adatot adjon meg
+
+### Nem Funkcionális 
+    - Gyorsnak és átláthatónak kell lennie
+
 ## 5. Funkcionális terv
 ---
 ### Rendszerszereplő:
