@@ -1,5 +1,6 @@
 package main;
 
+import backend.muveletek;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
@@ -29,15 +30,16 @@ public class MainWindowController implements Initializable {
     @FXML
     void onSymbolClicked(MouseEvent event) {
         String symbol = ((Pane)event.getSource()).getId().replace("btn","");
+        muveletek n = new muveletek();
         if(symbol.equals("Equals")) {
             double num2 = Double.parseDouble(result.getText());
             switch (operator) {
-                case "+" -> result.setText((num1+num2) + "");
-                case "-" -> result.setText((num1-num2) + "");
-                case "*" -> result.setText((num1*num2) + "");
-                case "/" -> result.setText((num1/num2) + "");
-                case "√" -> result.setText((Math.sqrt(num1)) + "");
-                case "x^y" -> result.setText((Math.sqrt(num1)) + "");
+                case "+" -> result.setText(n.Osszeadas(num1,num2) + "");
+                case "-" -> result.setText(n.Kivonas(num1,num2) + "");
+                case "*" -> result.setText(n.Szorzas(num1,num2) + "");
+                case "/" -> result.setText(n.Osztas(num1,num2) + "");
+                case "√" -> result.setText(n.NegyzetGyökvonas(num1) + "");
+                case "x^y" -> result.setText(n.Hatvanyozas(num1,num2) + "");
             }
             operator = ".";
         }
