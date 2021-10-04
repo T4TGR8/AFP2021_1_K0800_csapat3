@@ -1,3 +1,5 @@
+package backend;
+
 public class masodfokuEgyenlet {
     public String megoldas(double a,double b,double c){
         double Diszkriminans = b*b-4*a*c;

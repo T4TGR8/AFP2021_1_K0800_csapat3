@@ -1,3 +1,5 @@
+package backend;
+
 public class muveletek {
     //Az Összes művelet visszatérési Típusa String! oka: pl 3/0 = ERROR
 
