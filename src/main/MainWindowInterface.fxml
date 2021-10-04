@@ -3,9 +3,20 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.Pane?>
 
-
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="400.0" stylesheets="@MainWindowStyle.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Pane layoutY="24.0" prefHeight="576.0" prefWidth="400.0" styleClass="mainPage" />
+      <Pane layoutY="24.0" prefHeight="576.0" prefWidth="400.0" styleClass="mainPage">
+         <children>
+            <Pane layoutX="7.0" layoutY="27.0" prefHeight="117.0" prefWidth="385.0" styleClass="border" />
+            <Pane layoutX="7.0" layoutY="471.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="98.0" layoutY="471.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="186.0" layoutY="471.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="7.0" layoutY="376.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="98.0" layoutY="376.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="186.0" layoutY="376.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="7.0" layoutY="288.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="98.0" layoutY="288.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+            <Pane layoutX="186.0" layoutY="288.0" prefHeight="80.0" prefWidth="80.0" styleClass="border" />
+         </children></Pane>
    </children>
 </AnchorPane>
