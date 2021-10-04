@@ -20,12 +20,14 @@ Csak a vállalat dolgozói használhatják.
 -   Szorzás
 -   Osztás
 -   Gyökvonás
--   Hatványozás
+-   Négyzetre emelés
+-	Másodfokú egyenlet megoldása
+- 	Kijelzőn lévő adatok törlése
 
 ## 7. Igényelt üzleti folyamatok modellje
 
-Hatványozási felület:
--   Egy külön felület, ahol hatványozni lehet
+Másodfokú egyenlet megoldó felület:
+-   Egy külön felület, ahol másodfokú egyenletet lehet megoldani lehet
 
 ## 8. Követelménylista
 
@@ -37,7 +39,7 @@ Hatványozási felület:
 | 3  | Szorzás  | Számok szorzása. |
 | 4  | Osztás  | Számok osztása. |
 | 5  | Gyökvonás | Számok gyökei. |
-| 6  | Hatványozási felület | Külön felület számok hatványozására. |
+| 6  | Másodfokú egyenletmegoldó felület | Külön felület másodfokú egyenlet megoldására. |
 | 7  | Törlés  | Törlés a képernyőről |
 | 1  | Nullázás | Az összes szám törlése a képernyőről |
 

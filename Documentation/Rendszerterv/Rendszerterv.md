@@ -33,7 +33,7 @@ A projekt célja,hogy a vállalat dolgozói egy saját,egyedi számológépet ha
 	- Osztani
     - Szorozni
     - Számokat begépelni
-	- Kijelző törlésére és beírt reláció javítására/törlésére
+	- Kijelző törlésére és beírt reláció javítására
 	- Képes legyen másodfokú egyenletet megoldani
 
 ### Menü-hierarchia:
