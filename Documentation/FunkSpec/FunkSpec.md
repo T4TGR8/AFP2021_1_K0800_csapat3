@@ -15,21 +15,19 @@ A rendszernek a következő funkciókat kell ellátnia:
 *	Számok négyzetgyökének, valamint köbgyökének kiszámítása.
 *	A Fent említett műveletek együttes használata.
 *   Felület,mely másodfokú egyenlet megoldására képes.
-Előfeltételek:
-*	A felhasználón bejelentkezés (felhasználónév és jelszó helyes megadása) nélkül nem használhatja az alkalmazást.
 
 ## 3. Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
-*   K01: Az alkalmazás úgy hozzuk létre,hogy kizárólagosan a megfelelő felhasználónév és jelszó megadádása után hozzáférhető.
+*   K01: Az alkalmazás úgy hozzuk létre, hogy kizárólag a vállalat dolgozói férjenek hozzá a programhoz.
 
 ## 4. Képernyőtervek
 ![Képernyőterv](kepernyoterv01.png)
 
 ## 5. Forgatókönyvek
-Sikeres bejelentkezés után megjeleni a képernyőterven látott felület, az alatta futó programkód pedig lehetővé teszi a számológép funkcióinak hibamentes ellátását.
+Program megnyitása után megjelenik a képernyőterven látott felület, az alatta futó programkód pedig lehetővé teszi a számológép funkcióinak hibamentes ellátását.
 A másodfokú egyenletek megoldását lehetővé tevő funkciót a jobb alsó sarokban található gombra kattintva érjük el.
 
 ## 6. Funkció–követelmény megfeleltetés
 
 ID|Verzió|Követelmény|Funkció
 --|------|---|--------
-K01|V1.0|Felhasználók adminisztrációja|A felhasználónév és jelszó regisztrációja az adminiszrátor feladata. A Felhasználó a regisztáció után tudja használni az alkalmazást.
+K01|V1.0|Csak dolgozó használhatja| WIP
