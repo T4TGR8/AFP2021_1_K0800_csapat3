@@ -184,7 +184,7 @@
             </Pane>
             <Pane fx:id="btnMode" layoutX="340.0" layoutY="113.0" onMouseClicked="#onNumberClicked" prefHeight="80.0" prefWidth="53.0" styleClass="border">
                <children>
-                  <Label fx:id="result81" layoutX="4.0" layoutY="30.0" text="mode" textFill="WHITE">
+                  <Label fx:id="result81" layoutX="4.0" layoutY="30.0" onMouseClicked="#onModeClicked" text="mode" textFill="WHITE">
                      <font>
                         <Font name="Arial" size="18.0" />
                      </font>

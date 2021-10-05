@@ -1,6 +1,7 @@
 package main;
 
 import backend.muveletek;
+import backend.masodfokuEgyenlet;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
@@ -59,5 +60,22 @@ public class MainWindowController implements Initializable {
             num1 = Double.parseDouble(result.getText());
             result.setText(String.valueOf(0.0));
         }
+    }
+    @FXML
+    void onModeClicked(MouseEvent event) {
+        masodfokuEgyenlet m = new masodfokuEgyenlet();
+        String symbol = ((Pane)event.getSource()).getId().replace("btn","");
+        int i = 0;
+        double[] szamok = new double[3];
+        while(i<3) {
+            if(symbol.equals("Equals")) {
+                szamok[i] = Double.parseDouble(result.getText());
+                i++;
+            }
+        }
+
+        result.setText(m.megoldas(szamok[1],szamok[1],szamok[2]));
+
+
     }
 }
