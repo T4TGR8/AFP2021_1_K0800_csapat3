@@ -9,3 +9,4 @@ Folyamat száma | Funkció | Tesztelés leírása | Státusz | Megjegyzés | Tes
 4 | Számológép bezárása újból| A számológép bezárása az "x" ikonra kattintva | Sikertelen | A program nem indul el | Horváth Márton | 2021.10.04
 5 | Számológép lekicsinyítése újból| A számológép lekicsinyítése az "_" ikonra kattintva | Sikertelen | A program nem indul el | Horváth Márton | 2021.10.04
 6 | Számológép megjelenítése | A számológép megjelenik | Sikertelen | Nem találja a backend package-et | Horváth Márton | 2021.10.04
+7 | Számológép megjelenítése | A számológép megjelenik | Siker| Laptop újra indítása megoldotta | Horváth Márton | 2021.10.05
