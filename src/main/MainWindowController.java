@@ -4,19 +4,35 @@ import backend.muveletek;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
+import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.Pane;
+import javafx.stage.Stage;
 
 import java.net.URL;
 import java.util.ResourceBundle;
 
-public class MainWindowController implements Initializable {
+public class MainWindowController {
     @FXML private Label result;
+    @FXML private Pane titlePane;
+    @FXML private ImageView btnMinimize, btnClose;
 
-    @Override
-    public void initialize(URL url, ResourceBundle resourceBundle){
+    private double x, y;
 
+    public void init(Stage stage) {
+        titlePane.setOnMousePressed(mouseEvent -> {
+            x = mouseEvent.getSceneX();
+            y = mouseEvent.getSceneY();
+        });
+        titlePane.setOnMouseDragged(mouseEvent -> {
+            stage.setX(mouseEvent.getScreenX()-x);
+            stage.setY(mouseEvent.getScreenY()-y);
+        });
+
+        btnClose.setOnMouseClicked(mouseEvent -> stage.close());
+        btnMinimize.setOnMouseClicked(mouseEvent -> stage.setIconified(true));
     }
+
 
     @FXML
     void onNumberClicked(MouseEvent event) {

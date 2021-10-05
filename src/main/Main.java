@@ -12,6 +12,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) throws Exception{
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("MainWindowInterface.fxml"));
         Parent root = FXMLLoader.load(getClass().getResource("MainWindowInterface.fxml"));
         stage.setTitle("Számológép");
         Scene scene = new Scene(root);
@@ -19,6 +20,7 @@ public class Main extends Application {
         scene.setFill(Color.TRANSPARENT);
         stage.initStyle(StageStyle.TRANSPARENT);
         stage.setResizable(false);
+        ((MainWindowController)loader.getController()).init(stage);
         stage.show();
     }
 
