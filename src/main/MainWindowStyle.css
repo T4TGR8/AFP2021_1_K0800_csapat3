@@ -5,5 +5,11 @@
 
 .mainPage{
     -fx-background-color: rgba(4, 124, 145, 0.87);
-    -fx-background-radius: 20;
+    -fx-background-radius: 15 15 25 25;
+}
+
+.border{
+    -fx-background-color: #00000025;
+    -fx-background-radius: 15;
+
 }
