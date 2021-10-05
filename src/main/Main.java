@@ -12,13 +12,14 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) throws Exception{
-        Parent root = FXMLLoader.load(getClass().getResource("MainWindowInterface.fxml"));
+        FXMLLoader root = new FXMLLoader(getClass().getResource("MainWindowInterface.fxml"));
         stage.setTitle("Számológép");
-        Scene scene = new Scene(root);
+        Scene scene = new Scene(root.load());
         stage.setScene(scene);
         scene.setFill(Color.TRANSPARENT);
         stage.initStyle(StageStyle.TRANSPARENT);
         stage.setResizable(false);
+        ((MainWindowController)root.getController()).init(stage);
         stage.show();
     }
 
